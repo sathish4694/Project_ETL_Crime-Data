@@ -20,7 +20,7 @@ Project Flow
        - Handle missing data.
        - Remove duplicate data.
      - Convert data types for compatibility.
-     - Timestam of current data
+     - Timestam of current date
      - Regex
      - Filter data based on relevant conditions.
      - Apply aggregation logic if needed.
